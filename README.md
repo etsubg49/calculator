@@ -27,9 +27,8 @@ A simple and user-friendly calculator application built using HTML, CSS, and Jav
 
     The calculator displays an error message when dividing by zero.
 ## screenshots
+![Screenshot 2024-12-24 030111](https://github.com/user-attachments/assets/c21e1a45-71c1-4373-af74-43b58fdc3068)
 
-![Calculator Interface](![Screenshot 2024-12-24 030111](https://github.com/user-attachments/assets/852bd1c6-f9cd-4961-abe1-a83221e561e6)
-)
 ## Author - ** Etsubdink Gashaw ** - [etsubg49](https://github.com/etsubg49)
 
 
