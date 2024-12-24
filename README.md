@@ -29,7 +29,7 @@ A simple and user-friendly calculator application built using HTML, CSS, and Jav
 ## screenshots
 ![Screenshot 2024-12-24 030111](https://github.com/user-attachments/assets/c21e1a45-71c1-4373-af74-43b58fdc3068)
 
-## Author - ** Etsubdink Gashaw ** - [etsubg49](https://github.com/etsubg49)
+## Author - **Etsubdink Gashaw** - [etsubg49](https://github.com/etsubg49)
 
 
 
