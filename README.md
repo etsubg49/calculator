@@ -26,7 +26,9 @@ A simple and user-friendly calculator application built using HTML, CSS, and Jav
     Press delete to remove the last character.
 
     The calculator displays an error message when dividing by zero.
+## screenshots
 
+![Counter Interface](screenshots/counter Interface.png)
 ## Author - ** Etsubdink Gashaw ** - [etsubg49](https://github.com/etsubg49)
 
 
